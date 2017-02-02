@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LIVIN</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
 </resources>
